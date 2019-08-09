@@ -1,0 +1,13 @@
+dist/
+miniprogram/
+plugin
+!src/plugin
+deploy_versions/
+.temp/
+.rn_temp/
+node_modules/
+.DS_Store
+lib
+.idea
+/package-lock.json
+.vscode/
